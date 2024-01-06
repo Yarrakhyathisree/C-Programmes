@@ -1,0 +1,8 @@
+#include<stdio.h>
+//This program for float variables
+int main()
+{
+	float item1=5.67;
+	printf("item1:%f\n",item1);
+return 0;
+}
